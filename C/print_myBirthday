@@ -3,7 +3,7 @@
 int main()
 {
 	int a = 13;
-	char b = ‘R’;
+	char b = 'R';
 	float c = 3.14
 	double d = 3.141592653;
 	
